@@ -8,7 +8,7 @@ const Hero = (props: Props) => {
       <div className="row vertical-center">
         <div className="col-lg-8 text-left pb-5">
           <h1 className="display-1">Mohammed Kothaliya</h1>
-          <p className="lead pl-2">Cloud Solutions Architect | Full Stack & Data Engineer</p>
+          <p className="lead pl-2">Full Stack | Cloud Engineer</p>
         </div>
         <div className="col-lg-4 text-center my-auto pb-5 rounded-circle">
           <img
